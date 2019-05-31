@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# jsroute
-=======
 # jsroute
 ### Vanilla Javascript Routing
 
@@ -33,4 +30,3 @@ The JsRouter uses an empty `data-route` attribute to identify routeable `href` l
 <a data-route class="nav-link" href="/Contact">Contact</a>
 <div id="content"></div>
 ```
->>>>>>> Initial Commit
